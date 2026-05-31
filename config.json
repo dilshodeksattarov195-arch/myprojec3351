@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersecrypt",
+        "uuid": 18785706,
+        "checksum": "mvelvg"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
